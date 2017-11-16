@@ -1,4 +1,4 @@
-package shardmaster
+package chord
 
 import "labrpc"
 import "raft"
